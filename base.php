@@ -6,7 +6,7 @@
 ?>
 
     <main class="contenedor seccion">
-        <h1>Anuncios</h1>
+        <h1>Titulo de la Página</h1>
     </main>
 
 <?php 
